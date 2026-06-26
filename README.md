@@ -322,9 +322,13 @@ Cybersecurity
 
 <div align="center">
 
-<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Rp-13-byt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9](https://github-readme-stats.vercel.app/api?username=Rp-13-byt&show_icons=true&theme=tokyonight&hide_border=true)"/>
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rp-13-byt&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 </div>
 
