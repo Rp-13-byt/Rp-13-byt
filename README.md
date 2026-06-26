@@ -12,7 +12,7 @@ Building production-ready AI systems, backend infrastructure and developer tools
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/rajen-patel-38a8843b2">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
