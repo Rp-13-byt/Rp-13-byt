@@ -469,8 +469,8 @@ Cybersecurity          █████████████████░░
 
 <br><br>
 
-<a href="https://github.com/Rp-13-byt">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=creator-engine&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Rp-13-byt/shortcut-ai">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=shortcut.ai&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Rp-13-byt">
