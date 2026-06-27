@@ -370,7 +370,7 @@ Cybersecurity
 
 <div align="center">
 
-<a href="https://github.com/Rp-13-byt">
+<a href="https://github.com/Rp-13-byt](https://github.com/Rp-13-byt/shortcut-ai">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=creator-engine&theme=tokyonight&hide_border=true"/>
 </a>
 
