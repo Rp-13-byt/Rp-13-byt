@@ -375,7 +375,7 @@ Cybersecurity
 </a>
 
 <a href="https://github.com/Rp-13-byt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=clubhouse-management-system&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=Leet-Sync&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
