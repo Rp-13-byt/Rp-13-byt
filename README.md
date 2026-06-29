@@ -444,17 +444,6 @@ Cybersecurity          █████████████████░░
 
 ---
 
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent software, one project at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:2563eb&height=120&section=footer"/>
-
-</div>
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -555,7 +544,6 @@ Cybersecurity             █████████████████░
 Open Source               ███████████████░░░░░░ 72%
 ```
 
----
 
 # 🌍 Beyond Coding
 
@@ -565,7 +553,7 @@ Open Source               ███████████████░░░
 - 🤝 Contributing to Open Source
 - 💡 Learning by building
 
----
+
 
 # 💬 Quote
 
@@ -575,4 +563,14 @@ Open Source               ███████████████░░░
 
 </div>
 
----
+
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent software, one project at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:2563eb&height=120&section=footer"/>
+
+</div>
