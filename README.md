@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rajenpatel1902@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
 </a>
 
@@ -374,7 +374,7 @@ Cybersecurity
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=shortcut-ai&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Rp-13-byt">
+<a href="https://github.com/Rp-13-byt/Leet-Sync">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=Leet-Sync&theme=tokyonight&hide_border=true"/>
 </a>
 
