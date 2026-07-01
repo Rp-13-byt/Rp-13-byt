@@ -107,8 +107,8 @@ An AI-powered automation pipeline that streamlines:
 |---------|-------------|
 | 🤖 AI Engineering Workspace | Production-ready AI development platform |
 | 🛡️ PhishGuard SOC | AI-powered phishing detection and SOC dashboard |
-| 🎬 Creator Engine | AI automation pipeline for content creation |
-| 🏢 Clubhouse Management System | Full-stack management platform |
+| 🎬 Shortcut AI | AI automation pipeline for content creation |
+| 🏢 Leet Sync | Leetcode Tool |
 | 📱 College Visiting App | Android application for visitor management |
 
 ---
