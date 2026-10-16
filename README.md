@@ -175,13 +175,6 @@ An AI-powered automation pipeline that streamlines:
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp,linux,bash,vscode&theme=dark" />
 </p>
 
-Currently Learning
-
-- Kubernetes
-- Terraform
-- CI/CD Pipelines
-- AWS
-
 ---
 
 ## 🗄 Databases
@@ -192,47 +185,10 @@ Currently Learning
 
 ---
 
-# 🚀 Engineering Interests
-
-<table>
-<tr>
 
 <td width="50%">
 
-### Artificial Intelligence
 
-- Agentic AI
-- LLM Applications
-- RAG Systems
-- AI Workflows
-- MCP
-- Prompt Engineering
-- AI Automation
-
-</td>
-
-<td width="50%">
-
-### Backend Engineering
-
-- Distributed Systems
-- Microservices
-- REST APIs
-- Authentication
-- API Design
-- Cloud Deployment
-- Docker
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌱 Open Source Journey
-
-Currently building and contributing to projects focused on AI engineering and backend systems.
 
 ### Current Projects
 
@@ -242,56 +198,10 @@ Currently building and contributing to projects focused on AI engineering and ba
 
 ⭐ Creator Engine
 
-### Looking Forward To Contributing
-
-- LangChain
-- FastAPI
-- OpenTelemetry
-- Ollama
-- Qdrant
-- Hugging Face
-- Docker
-
----
-
-# 📚 Currently Learning
-
-```text
-AI Engineering
-███████████████████░░░░ 80%
-
-Backend Engineering
-█████████████████████░░ 90%
-
-System Design
-██████████████░░░░░░░░░ 65%
-
-Kubernetes
-███████████░░░░░░░░░░░░ 50%
-
-Cloud Computing
-████████████████░░░░░░░ 75%
-
-Cybersecurity
-█████████████████░░░░░░ 80%
-```
-
----
-
-# 🏆 Goals for 2026
 
 
-✅ Build production-ready SaaS products
 
-✅ Contribute to major Open Source projects
 
-✅ Master Distributed Systems
-
-✅ Publish technical blogs
-
-✅ Build scalable AI applications
-
----
 
 # 📈 Coding Philosophy
 
@@ -380,49 +290,6 @@ Cybersecurity
 
 </div>
 
-> **Note:** Replace repository names if yours are different.
-
----
-
-# 📊 Development Workflow
-
-```text
-AI Engineering         ████████████████████░ 90%
-
-Backend Development    ███████████████████░░ 88%
-
-System Design          ███████████████░░░░░░ 72%
-
-Cloud Computing        ████████████████░░░░░ 78%
-
-Open Source            ██████████████░░░░░░░ 70%
-
-Cybersecurity          █████████████████░░░░ 82%
-```
-
----
-
-# 📖 Engineering Principles
-
-- Build for scalability.
-- Prefer simplicity over complexity.
-- Automate repetitive work.
-- Design APIs before implementation.
-- Write readable, maintainable code.
-- Learn continuously through building.
-
-----
-
-# 🎯 Current Goals
-
-- 🚀 Build production-ready AI applications
-- 🤖 Master AI Agents & LangGraph
-- ☁ Learn Kubernetes & AWS
-- 📚 Deepen System Design knowledge
-- 🌍 Contribute to major OSS projects
-- 💼 Secure an AI/Backend Software Engineer role
-
----
 
 # 📫 Let's Connect
 
@@ -466,57 +333,7 @@ Cybersecurity          █████████████████░░
 <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=Leet-Sync&theme=tokyonight&hide_border=true"/>
 </a>
 
-</div>
 
----
-
-# 🏅 Certifications & Learning
-
-<div align="center">
-
-| Platform | Status |
-|----------|--------|
-| AWS Cloud Practitioner | 📖 Learning |
-| Docker | 📖 Learning |
-| LangChain | ✅ Building Projects |
-| GitHub Actions | ✅ Learning |
-| System Design | 📖 Ongoing |
-| Data Structures & Algorithms | 📖 Daily Practice |
-
-</div>
-
----
-
-# 📅 2026 Roadmap
-
-```text
-Quarter 3
-──────────────
-✅ AI Engineering Workspace
-✅ PhishGuard SOC
-✅ Open Source Contributions
-
-Quarter 4
-──────────────
-⬜ Build Production SaaS
-⬜ Kubernetes
-⬜ AWS
-⬜ System Design
-⬜ AI Agents
-⬜ Internship
-```
-
----
-
-# 💼 Looking For
-
-- AI Engineering Internship
-- Backend Development Internship
-- Open Source Collaborations
-- Research Opportunities
-- Production-Level Projects
-
----
 
 # 📖 Favorite Technologies
 
@@ -528,22 +345,6 @@ Quarter 4
 
 ---
 
-# 📊 Coding Activity
-
-```text
-Artificial Intelligence   ████████████████████░ 90%
-
-Backend Development       ███████████████████░░ 88%
-
-System Design             ████████████████░░░░░ 75%
-
-Cloud Computing           █████████████████░░░░ 80%
-
-Cybersecurity             █████████████████░░░░ 82%
-
-Open Source               ███████████████░░░░░░ 72%
-```
-
 
 # 🌍 Beyond Coding
 
@@ -552,7 +353,6 @@ Open Source               ███████████████░░░
 - 🔍 Exploring cybersecurity
 - 🤝 Contributing to Open Source
 - 💡 Learning by building
-
 
 
 # 💬 Quote
