@@ -225,31 +225,7 @@ An AI-powered automation pipeline that streamlines:
 
 ---
 
-# 📌 Featured Repositories
 
-<div align="center">
-
-<a href="https://github.com/Rp-13-byt/phishguard-soc">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=phishguard-soc&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt/ai-engineering-workspace">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=ai-engineering-workspace&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/Rp-13-byt/shortcut-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=shortcut-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt/Leet-Sync">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=Leet-Sync&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
 
 
 # 📫 Let's Connect
