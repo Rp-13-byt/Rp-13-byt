@@ -42,19 +42,7 @@ My interests include:
 
 My goal is to build production-ready software that solves real-world problems through scalable architecture, automation, and artificial intelligence.
 
----
 
-# 🚀 Current Focus
-
-- Building **AI Engineering Workspace**
-- Developing **PhishGuard SOC**
-- Learning **LangGraph & MCP**
-- Backend System Design
-- Distributed Systems
-- Cloud Deployment
-- Open Source Contributions
-
----
 
 # 💼 What I'm Building
 
@@ -201,33 +189,6 @@ An AI-powered automation pipeline that streamlines:
 
 
 
-
-
-# 📈 Coding Philosophy
-
-> "Build software that solves real problems, scales gracefully, and is enjoyable to maintain."
-
----
-
-# 🔥 Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,docker,mongodb,mysql,git,github,linux,gcp,vscode&theme=dark" />
-
-</p>
-
----
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rp-13-byt&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6"/>
-
-</div>
-
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
@@ -335,15 +296,6 @@ An AI-powered automation pipeline that streamlines:
 
 
 
-# 📖 Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,react,docker,mongodb,mysql,git,github,linux,gcp,vscode&theme=dark"/>
-
-</div>
-
----
 
 
 # 🌍 Beyond Coding
