@@ -178,14 +178,6 @@ An AI-powered automation pipeline that streamlines:
 
 
 
-### Current Projects
-
-⭐ AI Engineering Workspace
-
-⭐ PhishGuard SOC
-
-⭐ Creator Engine
-
 
 
 
@@ -248,7 +240,6 @@ An AI-powered automation pipeline that streamlines:
 
 ---
 
-# 🚀 Featured Projects
 
 <div align="center">
 
