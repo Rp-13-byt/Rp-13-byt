@@ -61,15 +61,17 @@ I enjoy building AI-powered applications, backend systems, cybersecurity tools, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rp-13-byt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Rp-13-byt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Rp-13-byt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Rp-13-byt&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
