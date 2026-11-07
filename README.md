@@ -1,295 +1,88 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:2563eb&height=220&section=header&text=Rajen%20Patel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20•%20Backend%20Engineer%20•%20Open%20Source&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=180&section=header&text=Rajen%20Patel&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%7C%20Backend%20Development%20%7C%20Open%20Source&descAlignY=58&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production+AI+Systems;LLM+Applications+%7C+Agentic+AI+%7C+RAG;Backend+Engineering+%7C+Distributed+Systems;Cybersecurity+Projects;Open+Source+Contributor;Always+Learning.+Always+Building."/>
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/rajen-patel-38a8843b2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-</a>
-
-<a href="mailto:rajenpatel1902@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Rp-13-byt&label=Profile+Views&color=2563eb&style=flat-square" height="28"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Rp--13--byt-181717?style=flat-square&logo=github)](https://github.com/Rp-13-byt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rajen-patel-38a8843b2/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajenpatel1902@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Rp-13-byt&style=flat-square&color=2563eb)
 
 </div>
 
----
+## About Me
 
-# 👋 About Me
+Hi, I'm **Rajen Patel**, a Computer Engineering student at K. J. Somaiya School of Engineering, Mumbai.
 
-I'm **Rajen Patel**, a Computer Engineering undergraduate at **K J Somaiya School of Engineering, Mumbai** with a passion for building **AI-powered applications**, **backend systems**, and **developer tools**.
+I enjoy building AI-powered applications, backend systems, cybersecurity tools, and developer-focused projects. I'm also actively exploring open-source contributions and collaborative software development.
 
-My interests include:
+- 🤖 Interested in AI Engineering, LLMs, RAG, and AI Agents
+- ⚙️ Building backend APIs and full-stack applications
+- 🔐 Exploring cybersecurity and DevSecOps
+- 🌍 Contributing to open-source projects
+- 🚀 Focused on building practical, real-world software
 
-- 🤖 AI Engineering
-- 🧠 Large Language Models (LLMs)
-- ⚡ Agentic AI
-- 🌐 Backend Engineering
-- ☁ Cloud Computing
-- 🔐 Cybersecurity
-- 🚀 Open Source
-
-My goal is to build production-ready software that solves real-world problems through scalable architecture, automation, and artificial intelligence.
-
-
-
-# 💼 What I'm Building
-
-## 🤖 AI Engineering Workspace
-
-A production-ready workspace for building autonomous AI systems using modern LLM architectures.
-
-### Features
-
-- Multi-Agent Workflows
-- Retrieval-Augmented Generation (RAG)
-- MCP Integration
-- Tool Calling
-- Memory Management
-- Evaluation Pipelines
-- Docker Deployment
-
----
-
-## 🛡️ PhishGuard SOC
-
-AI-powered phishing detection platform focused on cybersecurity.
-
-### Features
-
-- Email Threat Detection
-- URL Intelligence
-- Risk Analysis
-- Threat Dashboard
-- Secure REST APIs
-- AI-assisted Classification
-
----
-
-## 🎬 Creator Engine
-
-An AI-powered automation pipeline that streamlines:
-
-- Research
-- Script Writing
-- Subtitle Generation
-- Visual Enhancements
-- Publishing Workflow
-
----
-
-# ⭐ Featured Projects
+## Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🤖 AI Engineering Workspace | Production-ready AI development platform |
-| 🛡️ PhishGuard SOC | AI-powered phishing detection and SOC dashboard |
-| 🎬 Shortcut AI | AI automation pipeline for content creation |
-| 🏢 Leet Sync | Leetcode Tool |
-| 📱 College Visiting App | Android application for visitor management |
+|---|---|
+| [AI Engineering Workspace](https://github.com/Rp-13-byt/ai-engineering-workspace) | Workspace for AI engineering, LLM applications, agent workflows, and experimentation. |
+| [PhishGuard SOC](https://github.com/Rp-13-byt/phishguard-soc) | Cybersecurity project focused on phishing detection and threat analysis. |
+| [Shortcut AI](https://github.com/Rp-13-byt/shortcut-ai) | AI-powered content creation and video automation project. |
+| [Leet Sync](https://github.com/Rp-13-byt/Leet-Sync) | Project for synchronizing LeetCode solutions with GitHub. |
 
----
-# 🛠 Technical Skills
+## Tech Stack
 
-<div align="center">
+**Languages**
 
-## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,mysql&theme=dark" />
-</p>
+**AI & Backend**
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
-## 🤖 AI & Machine Learning
+**Databases, Cloud & DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-| Technologies |
-|--------------|
-| OpenAI API |
-| LangChain |
-| LangGraph |
-| MCP (Model Context Protocol) |
-| Prompt Engineering |
-| Retrieval-Augmented Generation (RAG) |
-| Vector Databases |
-| AI Agents |
-
----
-
-## ⚙ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,redis&theme=dark" />
-</p>
-
-### Experience
-
-- REST APIs
-- JWT Authentication
-- API Security
-- Backend Architecture
-- Authentication & Authorization
-- Database Design
-- CRUD Systems
-
----
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,javascript&theme=dark" />
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp,linux,bash,vscode&theme=dark" />
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres&theme=dark" />
-</p>
-
----
-
-
-<td width="50%">
-
-
-
-
-
-
-# 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rp-13-byt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rp-13-byt&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rp-13-byt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=Rp-13-byt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
+## Let's Connect
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Rp-13-byt&theme=tokyonight&hide_border=true"/>
-
-</div>
+- **GitHub:** [@Rp-13-byt](https://github.com/Rp-13-byt)
+- **LinkedIn:** [Rajen Patel](https://www.linkedin.com/in/rajen-patel-38a8843b2/)
+- **Email:** [rajenpatel1902@gmail.com](mailto:rajenpatel1902@gmail.com)
 
 ---
 
-# 📈 Contribution Activity
-
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rp-13-byt&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-
-
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rajen-patel-38a8843b2/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Rp-13-byt/ai-engineering-workspace">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=ai-engineering-workspace&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt/phishguard-soc">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=phishguard-soc&theme=tokyonight&hide_border=true"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Rp-13-byt/shortcut-ai">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=shortcut-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Rp-13-byt/Leet-Sync">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rp-13-byt&repo=Leet-Sync&theme=tokyonight&hide_border=true"/>
-</a>
-
-
-
-
-
-# 🌍 Beyond Coding
-
-- 📚 Reading AI & System Design papers
-- 🛠 Building side projects
-- 🔍 Exploring cybersecurity
-- 🤝 Contributing to Open Source
-- 💡 Learning by building
-
-
-# 💬 Quote
-
-<div align="center">
-
-> **"Great software is built through curiosity, consistency, and continuous learning."**
-
-</div>
-
-
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent software, one project at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e293b,100:2563eb&height=120&section=footer"/>
+*Building, learning, and contributing — one project at a time.*
 
 </div>
