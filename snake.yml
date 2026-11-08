@@ -4,24 +4,34 @@ on:
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rp-13-byt
           outputs: |
-            dist/github-snake.svg?color_snake=%238B5CF6&color_dots=%23EEF2FF,%23C4B5FD,%239D8BFD,%236366F1,%2306B6D4
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%230F172A,%231E293B,%23334155,%236366F1,%238B5CF6
+            dist/github-contribution-grid-snake.svg?color_snake=%23F97316&color_dots=%230B0D12,%237F1D1D,%23DC2626,%23F97316,%23FDBA74
 
       - name: Publish snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
